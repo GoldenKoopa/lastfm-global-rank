@@ -51,4 +51,5 @@ pip install -r requirements.txt
 
 - Only fetches data from the first page of top artists. Login would be required for more and is not supported.
 - Requires an internet connection.
+- This relies on Last.fm's website which could change anytime. The script might not work if any changes are made. 
 
